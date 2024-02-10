@@ -15,6 +15,7 @@ Suba tudo em um repositório e faça a entrega.
 
 - clone o repo
 - Execute o comando: `docker-compose up`
+- Acesse `http://localhost:8080`
 
 ## PT
 
@@ -31,3 +32,4 @@ Upload everything to a repository and deliver it.
 
 - clone the repo
 - Run the command: `docker-compose up`
+- Access `http://localhost:8080`
